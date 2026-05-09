@@ -81,6 +81,10 @@ src/main/java/com/example/springboot/
 └── SoftwareEngineerController.java     ← REST endpoints
 ```
 
+## References
+
+- [Spring Boot Tutorial by Amigoscode](https://www.youtube.com/watch?v=Cw0J6jYJtzw)
+
 ## What I learned
 
 - REST API development with Spring Boot
